@@ -106,4 +106,4 @@ Feel free to reach out with any questions or suggestions:
 - **Email**: mayurmore6468@gmail.com
 - **GitHub**: [mayurmore6468](https://github.com/mayurmore6468)
 
-Thank you for checking out the Movie App!
+Thank you for checking out the Mini Projects!
