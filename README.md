@@ -86,9 +86,9 @@ Welcome to my collection of mini projects built using HTML, CSS, and JavaScript!
 
 ## How to Run
 
-To run any of the projects locally, follow these steps:
+To run any of the projects locally, follow these steps
 1. Clone the repository:
-   git clone https://github.com/yourusername/web-mini-projects.git
+   git clone https://github.com/mayurmore6468/web-mini-projects.git
 
 2.Navigate to the project directory:
     cd web-mini-projects/project-name
